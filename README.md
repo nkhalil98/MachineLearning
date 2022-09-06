@@ -3,4 +3,5 @@ Machine Learning Projects<br />
 - Linear Regression<br />
 - Logistic Regression<br />
 - Decision Tree<br />
-- Support Vector Machine (SVM)
+- Support Vector Machine (SVM)<br />
+- Random Forest
