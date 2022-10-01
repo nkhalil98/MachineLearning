@@ -9,9 +9,9 @@ dummies = pd.get_dummies(df['Car Model'])
 merged = pd.concat([df, dummies], axis = 1)
 final = merged.drop(['Car Model', 'Mercedez Benz C class'], axis = 1)
 y = final['Sell Price($)']
-final  = final.drop('Sell Price($)', axis = 1)
+X  = final.drop('Sell Price($)', axis = 1)
 
 model = LinearRegression()
-model.fit(final, y)
+model.fit(X, y)
 
-print(model.score(final, y))
+print(model.score(X, y))
