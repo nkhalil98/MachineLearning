@@ -1,5 +1,5 @@
 # Machine Learning
-Machine Learning Projects<br />
+Machine Learning Exercises<br />
 - Linear Regression<br />
 - Logistic Regression<br />
 - Decision Tree<br />
