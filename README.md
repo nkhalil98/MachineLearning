@@ -4,4 +4,5 @@ Machine Learning Exercises<br />
 - Logistic Regression<br />
 - Decision Tree<br />
 - Support Vector Machine (SVM)<br />
-- Random Forest
+- Random Forest<br />
+- K Fold Cross Validation
