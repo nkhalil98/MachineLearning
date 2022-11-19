@@ -1,4 +1,4 @@
-# Machine Learning
+#Learning Machine Learning
 Machine Learning Exercises<br />
 - Linear Regression<br />
 - Logistic Regression<br />
