@@ -1,6 +1,8 @@
 # Learning Machine Learning
 Machine Learning Exercises<br />
-- Linear Regression<br />
+- Simple Linear Regression<br />
+- Multiple Linear Regression<br />
+- One Hot Encoding<br />
 - Logistic Regression<br />
 - Decision Tree<br />
 - Support Vector Machine (SVM)<br />
