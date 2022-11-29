@@ -7,4 +7,6 @@ Machine Learning Exercises<br />
 - Decision Tree<br />
 - Support Vector Machine (SVM)<br />
 - Random Forest<br />
-- K Fold Cross Validation
+- K Fold Cross Validation<br />
+- K Means Clustering<br />
+- Naive Bayes Classifier
