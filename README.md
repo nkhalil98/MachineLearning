@@ -2,6 +2,7 @@
 Machine Learning Exercises<br />
 - Simple Linear Regression:<br />
   - Predicting Canada's adjusted net national income per capita (current US$). The most recent dataset that includes many more countries can be found on: https://api.worldbank.org/v2/en/indicator/NY.ADJ.NNTY.PC.CD?downloadformat=csv
+  - Implementing gradient descent.
 - Multiple Linear Regression:<br />
   - Predicting employee salary based on year of expreience, interview score, and online test score.
 - Logistic Regression<br />
