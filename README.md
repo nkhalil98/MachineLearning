@@ -1,6 +1,7 @@
 # Learning Machine Learning
 Machine Learning Exercises<br />
-- Simple Linear Regression<br />
+- Simple Linear Regression: Predicting Canada's adjusted income pe capita for 2022.<br />
+The most recent dataset that includes many more countries can be found on: https://api.worldbank.org/v2/en/indicator/NY.ADJ.NNTY.PC.CD?downloadformat=csv
 - Multiple Linear Regression<br />
 - One Hot Encoding<br />
 - Logistic Regression<br />
