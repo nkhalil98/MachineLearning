@@ -10,7 +10,7 @@ Machine Learning Exercises<br />
   - Predicting employee retention based on multiple factors. The dataset can be found on Kaggle here: https://www.kaggle.com/datasets/giripujar/hr-analytics.
   - Classifying flower type (Setosa - Versicolour - Virginica) from skikit-learn Iris dataset.
 - Decision Tree:
-  - Predicting passenger survival of Titanic. The dataset can be found on Kaggle here: https://www.kaggle.com/competitions/titanic/data?select=train.csv.
+  - Predicting passenger survival in Titanic. The dataset can be found on Kaggle here: https://www.kaggle.com/competitions/titanic/data?select=train.csv.
 - Support Vector Machine (SVM)<br />
 - Random Forest<br />
 - K Fold Cross Validation<br />
