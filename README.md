@@ -5,6 +5,7 @@ Machine Learning Exercises<br />
   - Implementing gradient descent.
 - Multiple Linear Regression:<br />
   - Predicting employee salary based on years of expreience, interview score, and online test score.
+  - Predicting car price based on model, milage, and age.
 - Logistic Regression<br />
 - Decision Tree<br />
 - Support Vector Machine (SVM)<br />
