@@ -8,7 +8,8 @@ Machine Learning Exercises<br />
   - Predicting car price based on model, milage, and age.
 - Logistic Regression:<br />
   - Predicting employee retention based on multiple factors. The dataset can be found on Kaggle here: https://www.kaggle.com/datasets/giripujar/hr-analytics.
-- Decision Tree<br />
+  - Classifying flower type (Setosa - Versicolour - Virginica) from skikit-learn Iris dataset.
+- Decision Tree:<br />
 - Support Vector Machine (SVM)<br />
 - Random Forest<br />
 - K Fold Cross Validation<br />
