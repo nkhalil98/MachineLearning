@@ -14,5 +14,6 @@
 - Support Vector Machine (SVM):
   - Classifying digits from scikit-learn Digits dataset.
 - Random Forest:
+  - Classifying flower type (Setosa - Versicolour - Virginica) from scikit-learn Iris dataset.
 - K Means Clustering:
 - Naive Bayes Classifier:
