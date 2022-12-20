@@ -16,6 +16,7 @@
 - Random Forest:
   - Classifying flower type (Setosa - Versicolour - Virginica) from scikit-learn Iris dataset.
 - K Means Clustering:
+  - Clustering flower types (Setosa - Versicolour - Virginica) from scikit-learn Iris dataset.
 - Naive Bayes Classifier:
 - Lasso Regression and Ridge Regression (L1 and L2 Regularization):
 - K Nearest Neighbors (KNN):
