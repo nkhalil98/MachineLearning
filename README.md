@@ -18,3 +18,5 @@
 - K Means Clustering:
 - Naive Bayes Classifier:
 - Lasso Regression and Ridge Regression (L1 and L2 Regularization):
+- K Nearest Neighbors (KNN):
+- Principle Component Analysis (PCA):
