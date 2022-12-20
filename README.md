@@ -18,6 +18,7 @@
 - K Means Clustering:
   - Clustering flower types (Setosa - Versicolour - Virginica) from scikit-learn Iris dataset.
 - Naive Bayes Classifier:
+  - Classifying Wine type from scikit-learn Wine dataset.
 - Lasso Regression and Ridge Regression (L1 and L2 Regularization):
   - Predicting housing prices in Melbourne, Australia based on various factors. The dataset can be found on Kaggle here: https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market?resource=download&select=Melbourne_housing_FULL.csv.
 - K Nearest Neighbors (KNN):
