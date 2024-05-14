@@ -1,5 +1,6 @@
-# Learning Machine Learning
+# Machine Learning Projects
 
+## Models
 - Simple Linear Regression:
   - Predicting Canada's adjusted net national income per capita (current US$). The most recent dataset that includes many more countries can be found on: https://api.worldbank.org/v2/en/indicator/NY.ADJ.NNTY.PC.CD?downloadformat=csv.
   - Implementing gradient descent.
@@ -25,3 +26,6 @@
 - K Nearest Neighbors (KNN):
   - Classifying digits from scikit-learn Digits dataset.
 - Principle Component Analysis (PCA).
+
+## Resources
+- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
